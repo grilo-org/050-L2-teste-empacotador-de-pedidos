@@ -24,6 +24,12 @@ Acesse a documentação interativa via Swagger:
 
 📄 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
+### Autenticação:
+
+User: admin
+
+Passord: 1234
+
 | Método | Endpoint        | Descrição                                         |
 |--------|------------------|--------------------------------------------------|
 | POST   | /api/pedidos     | Recebe uma lista de pedidos e retorna as caixas necessárias para empacotamento |
