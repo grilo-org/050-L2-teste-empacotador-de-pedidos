@@ -28,7 +28,7 @@ Acesse a documentação interativa via Swagger:
 
 User: admin
 
-Passord: 1234
+Password: 1234
 
 | Método | Endpoint        | Descrição                                         |
 |--------|------------------|--------------------------------------------------|
